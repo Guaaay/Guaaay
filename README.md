@@ -10,4 +10,4 @@ I am interested in:
 - 3D and CGI
 - Graphic design
 
-Visit [my blog](al.astudillo.com)
+Visit [my blog](al.astudillo.com)!
