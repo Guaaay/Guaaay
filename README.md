@@ -1,10 +1,11 @@
 ### Alejandro Astudillo
 
-I'm a last year CompSci student in Madrid.
+I'm a CompSci graduate in Madrid
 
 I am interested in:
 
 - Coding and math
+- Embedded and real time systems
 - Photography
 - Creative writing
 - 3D and CGI
