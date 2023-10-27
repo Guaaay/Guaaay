@@ -2,13 +2,6 @@
 
 I'm a CompSci graduate in Madrid
 
-I am interested in:
-
-- Coding and math
-- Embedded and real time systems
-- Photography
-- Creative writing
-- 3D and CGI
-- Graphic design
+Currently working on embedded and real time systems
 
 Visit [my blog](al.astudillo.com)!
