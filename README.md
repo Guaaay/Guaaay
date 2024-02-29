@@ -1,6 +1,6 @@
 ### Alejandro Astudillo
 
-I'm a CompSci graduate in Madrid
+I'm a CS graduate in Madrid
 
 Currently working on embedded and real time systems
 
